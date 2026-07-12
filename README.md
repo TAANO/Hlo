@@ -1,4 +1,4 @@
-# Hi, I'm Olga 👋
+# Hi, I'm Olga
 
 **Software Test Engineer / QA Engineer** with 15+ years of experience in software quality assurance, test automation, system testing and test leadership.
 
